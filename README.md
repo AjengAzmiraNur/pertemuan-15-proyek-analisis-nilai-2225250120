@@ -92,11 +92,11 @@ Detail penyebab dan perbaikan ada di [docs/bug_log.md](docs/bug_log.md).
 - Batas lulus masih tetap 60 (konstanta `BATAS_LULUS` di `src/proses.py`) dan belum bisa diubah dari menu.
 - Menu 2 hanya membaca `data/contoh_data.txt`.
 
-## Anggota dan Kontribusi
+## Kontribusi
 
 | Nama | NIM | Kontribusi |
 |---|---|---|
-| Fikri Yustiawan | 2225250075 | Perancangan, implementasi, pengujian, debugging, dan dokumentasi |
+| Ajeng Azmira Nur | 2225250120 | Perancangan, implementasi, pengujian, debugging, dan dokumentasi |
 
 ## Referensi/Bantuan
 
